@@ -1,6 +1,6 @@
 const translations = {
   vi: {
-    navAbout: 'Giới thiệu', navExpertise: 'Thế mạnh', navWork: 'Dự án', navJourney: 'Hành trình', navContact: 'Kết nối <span aria-hidden="true">↗</span>',
+    navAbout: 'Giới thiệu', navExpertise: 'Thế mạnh', navWork: 'Dự án', navJourney: 'Kinh nghiệm', navContact: 'Kết nối <span aria-hidden="true">↗</span>',
     heroEyebrow: 'HỆ THỐNG BACKEND / SẢN PHẨM FULL-STACK', heroHello: 'HELLO, WORLD. MÌNH LÀ', heroRole: 'Java & Full-Stack Developer',
     heroDescription: 'Mình xây dựng nền tảng thời gian thực, làm cho backend phức tạp vận hành tin cậy và biến ý tưởng thành sản phẩm hữu ích.',
     exploreWork: 'Xem dự án', metricYears: 'năm làm sản phẩm thật', metricQueries: 'truy vấn mỗi chu kỳ', metricSystems: 'tư duy thời gian thực', visualCaption: 'KỸ THUẬT CÓ CHỦ ĐÍCH', scrollExplore: 'CUỘN ĐỂ KHÁM PHÁ',
@@ -19,9 +19,8 @@ const translations = {
     project2Type: 'PHỤ TRÁCH MODULE / NỘI BỘ', project2Title: 'Odds Monitor', project2Body: 'Phụ trách API, background workers, thu thập, chuẩn hóa, lưu trữ, phân tích dữ liệu và hỗ trợ vận hành cho module theo dõi odds.',
     project3Type: 'DỰ ÁN CÁ NHÂN / FULL-STACK', project3Body: 'Website song ngữ và nền tảng vận hành có phân quyền cho khách hàng, đơn hàng, danh sách chờ, phân tích và quản trị.', viewRepository: 'Xem repository',
     stackAside: 'CÔNG CỤ PHỤC VỤ CÔNG VIỆC', stackTitle: 'Công cụ là phương tiện.<br /><em>Kết quả mới quan trọng.</em>', stackIntro: 'Bộ công cụ thực tiễn trải rộng từ dịch vụ, dữ liệu đến giao diện và triển khai.',
-    journeyAside: 'KINH NGHIỆM & HỌC TẬP', journeyTitle: 'Trưởng thành từ việc <em>xây dựng.</em>', present: 'HIỆN TẠI', experienceLabel: 'KINH NGHIỆM', educationLabel: 'HỌC VẤN',
+    journeyAside: 'KINH NGHIỆM LÀM VIỆC', journeyTitle: 'Kinh nghiệm từ việc <em>xây dựng.</em>', present: 'HIỆN TẠI', experienceLabel: 'KINH NGHIỆM',
     palRole: 'Java Developer / Full-Stack Developer', palBody: 'Dịch vụ Java production, luồng dữ liệu thời gian thực, tích hợp nhà cung cấp, tối ưu SQL và xử lý sự cố xuyên tầng.', patRole: 'Front-End Developer', patBody: 'Giao diện React responsive, component tái sử dụng và các quy trình kết nối API.',
-    hcmTitle: 'Đại học Mở TP. Hồ Chí Minh', hcmRole: 'Kỹ thuật phần mềm · Đang theo học', collegeRole: 'Lập trình website · Đã tốt nghiệp', certLabel: 'CHỨNG NHẬN', certText: 'PALTech Certificate of Achievement (2024) · Các chứng chỉ Front-End, Node.js và Java Programming (2022–2024)',
     contactTitle: 'Cùng xây dựng thứ gì đó <em>thật hiệu quả.</em>', contactBody: 'Quan tâm đến hệ thống tin cậy, một sản phẩm chỉn chu hoặc một cuộc trao đổi kỹ thuật? Hãy kết nối với mình trên GitHub.', visitGitHub: 'Ghé GitHub của mình', copyHandle: 'Sao chép @ltqhuy0112', contactBottom: 'XÂY DỰNG CÓ CHỦ ĐÍCH, MỖI NGÀY.', backTop: 'VỀ ĐẦU TRANG', copied: 'Đã sao chép @ltqhuy0112'
   },
   en: { copied: 'Copied @ltqhuy0112' }
